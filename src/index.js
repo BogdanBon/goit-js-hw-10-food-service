@@ -1,1 +1,1 @@
-
+import './js/theme-switch'
