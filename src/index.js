@@ -1,2 +1,3 @@
-import './js/theme-switch'
-import './js/menu'
+setTimeout(() => {
+    console.log('my repo 11')
+}, 2000);
