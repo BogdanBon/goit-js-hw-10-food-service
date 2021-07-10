@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["setTimeout","console","log"],"mappings":";AAAAA,WAAW,KACPC,QAAQC,IAAI,eACb","file":"src.80c03810.js","sourceRoot":"../src","sourcesContent":["setTimeout(() => {\n    console.log('my repo 11')\n}, 2000);"]}
